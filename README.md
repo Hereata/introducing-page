@@ -3,4 +3,3 @@
 <h2>Je m'appelle Jennifer et j'ai 30 ans, avec un parcours assez atypique... :D</h2>
 
 ##Mais qui suis-je ?#
-
